@@ -169,3 +169,16 @@ footer{
     background: orange;
     color: white;
 }
+nav{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:15px;
+}
+
+.auth-buttons{
+    display:flex;
+    gap:10px;
+    float:none;
+}
