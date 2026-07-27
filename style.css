@@ -91,3 +91,33 @@ footer{
     padding:20px;
     margin-top:30px;
 }
+.login-box{
+    width:320px;
+    margin:50px auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    text-align:center;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+.login-box input{
+    width:90%;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:5px;
+}
+
+.login-box button{
+    width:95%;
+    padding:12px;
+    background:#0a8f4d;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.login-box button:hover{
+    background:#08753f;
+}
