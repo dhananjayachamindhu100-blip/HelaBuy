@@ -22,13 +22,14 @@ nav{
     padding:15px 20px;
     display:flex;
     align-items:center;
+    flex-wrap:wrap;
+    gap:10px;
 }
 }
 
 nav a{
     color:#006400;
     text-decoration:none;
-    margin:15px;
     font-weight:bold;
 }
 
