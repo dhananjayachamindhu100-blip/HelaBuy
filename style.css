@@ -179,7 +179,5 @@ nav{
 }
 
 .auth-buttons{
-    display:flex;
-    gap:10px;
-    float:none;
+    margin-left:auto;
 }
