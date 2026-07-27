@@ -145,3 +145,27 @@ footer{
     background: orange;
     color: white;
 }
+
+.auth-buttons {
+    float: right;
+}
+
+.login-btn,
+.signup-btn {
+    text-decoration: none;
+    padding: 8px 16px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.login-btn {
+    background: white;
+    color: green;
+    border: 2px solid green;
+}
+
+.signup-btn {
+    background: orange;
+    color: white;
+}
